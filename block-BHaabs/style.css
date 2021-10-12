@@ -1,0 +1,30 @@
+body{
+    background-color: #282e2b;
+}
+section{
+    width:75%;
+    margin: 0 auto;
+}
+h1{
+    font-size: 3.5rem;
+    color: white;
+    text-transform: capitalize;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    font-size: 1.5rem;
+    color: white;
+}
+.tag{
+    color:red;
+}
+p{
+    font-size: 1.3rem;
+    color: white;
+    word-spacing: 3px;
+    font-family: 'Noto Serif', serif;
+}
